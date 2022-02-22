@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reflections upon a late pamphlet in a letter to J.H.</title>
+            <author>Ashenden, Thomas, 1648 or 9-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26016</idno>
+            <idno type="STC">Wing A3974</idno>
+            <idno type="STC">ESTC R31566</idno>
+            <idno type="EEBO-CITATION">12166031</idno>
+            <idno type="OCLC">ocm 12166031</idno>
+            <idno type="VID">55319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1495:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reflections upon a late pamphlet in a letter to J.H.</title>
+                  <author>Ashenden, Thomas, 1648 or 9-1723.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hindmarsh ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Thomas Ashenden.</note>
+                  <note>Signed: T.A.</note>
+                  <note>Date of publication from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: cropped with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:55319:1" rendition="simple:additions"/>
+            <head>Some Reflections UPON A LATE PAMPHLET, IN A LETTER to J. H.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IT is out of a particular reſpect to you that I write theſe few haſty Lines, I being a Frequenter of your Shop, where I always was ſure to meet with things Ingenious and Loyal (I mean in the way of your <hi>Trade)</hi> without any appear<g ref="char:EOLhyphen"/>ance of thoſe lewd and ſeditious <hi>Pamphlets,</hi> which in theſe Licentious Times ſwarm from the Deplorable Liberty of the Preſs. A Liberty which can be of no good Conſequence in the moſt ſettled and peaceable Times, but as the miſerable Poſture of Affairs is now, 'tis certainly that to which we chiefly owe the ſpreading Contagion of our Diviſions, both in Church and State: The very beſt of Men I fear write with ſome Itch of Emulation and Contention; and as for others, their daily Libels are ſtuft with moſt malicious Inſinuations and treaſonable Suggeſtions againſt the beſt Government in the World. We have Anſwers and Rejoynders mul<g ref="char:EOLhyphen"/>tiplyed upon each other daily, without any one fixt Point of Truth, as things are now paſſionately managed, and this peeviſh progreſs of mutual Diſpute and Contradiction, is likely to Raign <hi>Ad infinitum.</hi> You know a few Tuggs at the Preſs ſhall immediately produce that which ſhall with eaſe ſpeak to the whole Nation at once; ſo that the miſchievous Conceptions of a ſingle Perſon, ſhall by the help of this Diſpatch, infect Ten thouſand in few Hours. I hope the Wiſdom of the approaching <hi>Parliament</hi> will redreſs this loud Calamity, and at once ſtop the Occaſions of our old, as well as pre<g ref="char:EOLhyphen"/>vent the Propagations of new Strifes and Animoſities. Our Heart-burnings, God knows, are now riſen to ſuch a height, as nothing but the prudent and ſucceſsful Care of the Great Councel of this Nation, can ſtop from breaking out into a general Conflagration: But enough of Preamble.</p>
+            <p>The Intent of theſe Lines is to make a few Reflections upon a <hi>Pamphlet</hi> which met with me Yeſterday: I am ſorry to hear your Shop ſhould Credit ſuch a Scurrilous, if not Prophane Paper; However I am pleas'd to hear that you by the immediate ſtifling it have ſtopt the Mouths of thoſe hot Zealots, who make Mountains of Molehills, and greedily ſnatch at any Occaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons to expoſe the Failings of their Oppoſers, as they have done by this raſh Author, whoſe Supereminent Zeal for Loyalty was perhaps
+<pb n="2" facs="tcp:55319:2"/> the only Occaſion of his Indiſcretion in venturing upon ſuch Irreligious Alluſion they themſelves not thinking their Familiarity and Sawcineſs with God Almight<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath been more directly and notoriouſly Prophane, and thereby given occaſion to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and many the like <hi>Pamphlets.</hi>
+            </p>
+            <p>Well then, it's my opinion upon the peruſal of that Paper, that the Author t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more ſtrongly to expreſs the vile Hypocriſie of our Diſſenters, was reſolved to e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poſe them in their natural Colours; and I imagin he thought of no better way th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under this Title to make their Principles and Practices diametrically oppoſite to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very Fundamentals of Chriſtian Religion; for in that Pamphlet he hath diſlodged t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeveral Petitions of the Holy Prayer, and Articles of the Creed, &amp;c. and in their roo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath planted his own ſharp Reflections. This (I ſuppoſe) he did, as thinking the Digni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their new place and ſeat would make them appear with the greater luſtre, and more advantageous ſtate and pomp of Satyr Beſides (I ſuppoſe) he thought that as t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Novelty of this odd Alluſion would make his Deſcriptions more remarkable, by bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing relation to thoſe familiar parts of our Religion; ſo it would fix the deſigned Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tumely and Scandal againſt Diſſenters ſo much the deeper in the mind of the Reade<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Matter of Fact being undeniable, though unhappily repreſented under a ſacre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Title. Sir, my general Charity obligeth me to think well of all men, and that the Sen<g ref="char:EOLunhyphen"/>timents of the Author were not deſignedly Atheiſtical or Profane, though an ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſcreet Zele hath laid him under the Cenſure of both. The Picture of the Perſons he d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſigned to draw, comes very near the Life; but his Prudence might have choſen a mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſutable Frame to ſet it in, than that of the Sacred Word. For though 'tis true, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Scandalum acceptum</hi> is not always <hi>Scandalum datum;</hi> yet it is ill playing with ſuch edge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tools,, eſpecially in a Juncture when very ill Conſequences may happen by the wea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs of ſome, and malice of others. I am not ignorant that things of this nature hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been done with leſs noiſe and outcry, than was yeſterday made about this; yet it w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ill timed now, when as our tottering Affairs are ſo unſteddy, that the Sentiments <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the People, are made the Teſt of Truth. For my own part, I bluſh at the Authors im<g ref="char:EOLunhyphen"/>prudent choice of his Title, but can't conceive the ſubſtance of the thing abſolutel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Profane; for it is evident the Authors deſign was not at all to vilifie the Eſſentials <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Religion, but onely by this Ludicrous Alluſion to render the Perſons there pointe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at more familiarly and plainly deteſtable. To conclude, I believe you (like me) though that Pamphlet uncapable of giving ſuch diſtaſte, or that from ſo ſlight occaſion ſo grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a noiſe ſhould ariſe, which made it at firſt find a place on your Counter; but ſince i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath been an occaſion of ſo much Diſcourſe, I commend your diſcretion in denying it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> room in your Shop; it being wiſdom in all perſons who deſire the Peace of the Nation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to engage themſelves in any thing which may increaſe or continue our Animoſities<g ref="char:punc">▪</g>
+            </p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>I am, <hi>Your Servant,</hi> T. A.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Joſeph Hindmarſh</hi> at the Black Bull in <hi>Cornhill.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
